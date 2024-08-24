@@ -1,1 +1,1 @@
-This is my first program made with Python. Trying to learn a new language!
+These are my first steps learning Python. Trying to learn a new language and improve my skills!
